@@ -1,0 +1,27 @@
+{
+  "name": "gfp-stylelint-config",
+  "version": "1.0.0",
+  "description": "Opiniated GFP css rules that can be shared via a stylelint config object.",
+  "main": ".stylelintrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrgreentech/stylelint-config-gfp.git"
+  },
+  "keywords": [
+    "gfp",
+    "stylelint-config-gfp",
+    "stylelint-config",
+    "stylelint",
+    "css"
+  ],
+  "author": "Olle Harju <olle.harju@mrgreen.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/mrgreentech/stylelint-config-gfp",
+  "dependencies": {
+    "stylelint": "^7.10.1",
+    "stylelint-config-standard": "^16.0.0"
+  }
+}
