@@ -1,3 +1,8 @@
+# 1.1.0
+
+* Changed `defaultSeverity` to `warning` instead of `error`.
+
+
 # 1.0.5
 
 * Reverted scoping of package name

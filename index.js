@@ -1,6 +1,7 @@
 // prettier-ignore
 module.exports = {
   "extends": "stylelint-config-standard",
+  "defaultSeverity": "warning",
   "rules": {
     "indentation": 4,
     "selector-type-no-unknown": null,
