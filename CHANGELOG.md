@@ -1,3 +1,8 @@
+# 1.0.5
+
+* Reverted scoping of package name
+
+
 # 1.0.4
 
 * Added organisation scope to package name in package.json.
