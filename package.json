@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-gfp",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Opiniated GFP css rules that can be shared via a stylelint config object.",
   "main": "index.js",
   "scripts": {
