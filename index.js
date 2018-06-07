@@ -8,7 +8,7 @@ module.exports = {
     }],
     "indentation": 4,
     "selector-type-no-unknown": [true, {
-        "ignoreTypes": ["/^gfp-/"]
+        "ignoreTypes": ["/^gfp-/", "/^ng-/"]
     }]
   }
 }
