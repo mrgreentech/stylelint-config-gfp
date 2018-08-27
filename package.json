@@ -20,8 +20,11 @@
   "author": "Olle Harju <olle.harju@mrgreen.com>",
   "license": "MIT",
   "homepage": "https://github.com/mrgreentech/stylelint-config-gfp",
+  "peerDependencies": {
+    "stylelint": "^9.5.0"
+  },
   "dependencies": {
-    "stylelint": "^7.10.1",
-    "stylelint-config-standard": "^16.0.0"
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-config-prettier": "^4.0.0"
   }
 }

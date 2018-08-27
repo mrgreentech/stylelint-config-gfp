@@ -1,6 +1,9 @@
 // prettier-ignore
 module.exports = {
-  "extends": "stylelint-config-standard",
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-prettier"
+  ],
   "rules": {
     "block-no-empty": null,
     "declaration-block-no-duplicate-properties": [true, {
